@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm JianJianJianJian</h1>
 <h3 align="center">A PM who love coding from China</h3>
 </br>
+
 - 🔭 I’m currently working on **Project Manager**
 
 - 🌱 I’m currently learning **React NodeJs Solidity BlockChain**
@@ -8,6 +9,7 @@
 - 💬 Ask me about **react Solidity and so on**
 
 - ⚡ Fun fact **Gaming、Bot、Coding**
+
 </br>
 <h3>Things I code with</h3>
 <p>
@@ -26,7 +28,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-
+<h3>vistor<h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1500256797&label=Profile%20views&color=0e75b6&style=flat" alt="1500256797" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1500256797" alt="1500256797" /></a>
