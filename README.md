@@ -1,13 +1,13 @@
 ## About Me
-I am a passionate developer proficient in JavaScript, Rust, Move, and Solidity. 
+Firstly, I'm a project manager who has successfully delivered over six projects with a cumulative value exceeding ten million. Secondly, I'm a passionate coder, proficient in programming languages like JavaScript, Rust, Move, and Solidity.
 
-I also have experience with Spring Cloud and Go Zero for building distributed applications. 
+I also have experience in building distributed applications, utilizing tools such as Spring Cloud and Go Zero.
 
-In terms of front-end development frameworks, I am skilled in using React. 
+When it comes to front-end development frameworks, I'm highly skilled in React.
 
-For desktop application development, I often use PyQt. 
+For desktop application development, I frequently use PyQt.
 
-Additionally, I have experience in model training, including VITs fine-tuning and Stable diffusion's LORA model.
+Furthermore, I possess experience in model training, including fine-tuning VITs models and working with Stable Diffusion's LORA model.
 
 ## Skills
 
