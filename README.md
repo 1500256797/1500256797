@@ -1,9 +1,9 @@
 ## About Me
-I am a passionate developer proficient in JavaScript, Python, and Solidity. 
+I am a passionate developer proficient in JavaScript, Rust, Move, and Solidity. 
 
-I also have experience with Spring Cloud for building distributed applications. 
+I also have experience with Spring Cloud and Go Zero for building distributed applications. 
 
-In terms of front-end development frameworks, I am skilled in using React and Vue. 
+In terms of front-end development frameworks, I am skilled in using React. 
 
 For desktop application development, I often use PyQt. 
 
@@ -15,16 +15,15 @@ Additionally, I have experience in model training, including VITs fine-tuning an
 
 
 - JavaScript
-- Python
+- Rust
 - Solidity
 - Spring Cloud
 - React
-- Vue
 - PyQt
 - Model Training
 
 ## Contact Me
 Email: 1500256797@qq.com
 
-GitHub: [github.com/yourusername](https://github.com/1500256797/)
+GitHub: [github.com/1500256797](https://github.com/1500256797/)
 
