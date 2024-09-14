@@ -23,11 +23,7 @@ A Full Stack Developer and Project Manager 🚀 from China. I consider myself as
 
 <br/>
 
-Stacks I have worked with: JavaScript, Rust, Solidity, Spring Cloud, React, Vue, PyQt.
-
-<br/>
-
-Things I have recently experimented with: Go Zero, distributed applications, and model training (VITs and Stable Diffusion's LORA).
+Stacks I have worked with: JavaScript, Rust, Solidity, React , React Native.
 
 <br/>
 
