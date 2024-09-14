@@ -39,16 +39,15 @@ Passionate about delivering high-value projects and continuously improving my te
 
 ✨ Quick Facts
 👨🏽‍💻 I'm currently working as a Project Manager and Full Stack Developer
-🌱 I'm currently learning more about blockchain technologies and AI
-💬 Ask me about anything related to JavaScript, Rust, Solidity, or project management
-⚡️ Fun-Fact: I've managed projects with a cumulative value exceeding ten million
-🎿 Hobbies other than coding: Reading tech blogs, exploring new technologies
-📫 How to reach me: 1500256797@qq.com
-🛠️ Languages and Tools:
-![JavaScript][]![Rust][]![Solidity][]![React][]![Vue.js][]![Spring][]![Python][]![PyQt][]![Git][]![GitHub][]
 
-👣 Next Steps
-_Since you don't want to leave my profile just yet! Here are a few things you can do :_❤️ Offer work : Send the details on ![GitHub Badge][]
-or ![Gmail Badge][]❤️ Follow me : on ![GitHub followers][] and be a part of my journey... and See if I can make it or not!
+🌱 I'm currently learning more about blockchain technologies and AI
+
+💬 Ask me about anything related to JavaScript, Rust, Solidity, or project management
+
+⚡️ Fun-Fact: I've managed projects with a cumulative value exceeding ten million
+
+🎿 Hobbies other than coding: Reading tech blogs, exploring new technologies
+
+📫 How to reach me: 1500256797@qq.com
 
 ❤️ Connect with me : ![GitHub Badge][]<hr/>⭐️ From 1500256797
