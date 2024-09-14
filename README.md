@@ -1,29 +1,54 @@
-## About Me
-Firstly, I'm a project manager who has successfully delivered over six projects with a cumulative value exceeding ten million. Secondly, I'm a passionate coder, proficient in programming languages like JavaScript, Rust, Move, and Solidity.
+Hi there 👋, I'm Rene Dishian
+<br/>
 
-I also have experience in building distributed applications, utilizing tools such as Spring Cloud and Go Zero.
+<a href="https://github.com/1500256797">
 
-When it comes to front-end development frameworks, I'm highly skilled in React.
+<img align="left" alt="Rene's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 
-For desktop application development, I frequently use PyQt.
+</a>
 
-Furthermore, I possess experience in model training, including fine-tuning VITs models and working with Stable Diffusion's LORA model.
+<a href="mailto:1500256797@qq.com">
 
-## Skills
+<img align="left" alt="Rene's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 
-<div align="left"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=ethereum&logoColor=white" alt="Solidity"> <img src="https://img.shields.io/badge/-Spring%20Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Cloud"> <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React"> <img src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue"> <img src="https://img.shields.io/badge/-PyQt-41CD52?style=flat-square&logo=qt&logoColor=white" alt="PyQt"> </div>
+</a>
 
+<br />
 
-- JavaScript
-- Rust
-- Solidity
-- Spring Cloud
-- React
-- PyQt
-- Model Training
+<br/>
 
-## Contact Me
-Email: 1500256797@qq.com
+<p>
 
-GitHub: [github.com/1500256797](https://github.com/1500256797/)
+A Full Stack Developer and Project Manager 🚀 from China. I consider myself as a skilled developer with strong project management experience.
 
+<br/>
+
+Stacks I have worked with: JavaScript, Rust, Solidity, Spring Cloud, React, Vue, PyQt.
+
+<br/>
+
+Things I have recently experimented with: Go Zero, distributed applications, and model training (VITs and Stable Diffusion's LORA).
+
+<br/>
+
+Passionate about delivering high-value projects and continuously improving my technical skills.
+
+</p>
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+
+✨ Quick Facts
+👨🏽‍💻 I'm currently working as a Project Manager and Full Stack Developer
+🌱 I'm currently learning more about blockchain technologies and AI
+💬 Ask me about anything related to JavaScript, Rust, Solidity, or project management
+⚡️ Fun-Fact: I've managed projects with a cumulative value exceeding ten million
+🎿 Hobbies other than coding: Reading tech blogs, exploring new technologies
+📫 How to reach me: 1500256797@qq.com
+🛠️ Languages and Tools:
+![JavaScript][]![Rust][]![Solidity][]![React][]![Vue.js][]![Spring][]![Python][]![PyQt][]![Git][]![GitHub][]
+
+👣 Next Steps
+_Since you don't want to leave my profile just yet! Here are a few things you can do :_❤️ Offer work : Send the details on ![GitHub Badge][]
+or ![Gmail Badge][]❤️ Follow me : on ![GitHub followers][] and be a part of my journey... and See if I can make it or not!
+
+❤️ Connect with me : ![GitHub Badge][]<hr/>⭐️ From 1500256797
